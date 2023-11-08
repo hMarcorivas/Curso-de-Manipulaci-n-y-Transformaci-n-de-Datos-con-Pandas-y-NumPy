@@ -6,3 +6,6 @@ Agrega datos y maneja datos nulos en tus DataFrames.
 Lee, filtra y combina datos en forma tabular con Pandas.
 Utiliza condiciones para filtrar tus arrays de NumPy.
 Maneja arrays de diferentes dimensiones con NumPy.
+
+
+Link de Google Colab: https://colab.research.google.com/drive/1XVmyweCJZnrxFDOvVCPN4ixfkfIydVhB?pli=1&authuser=2#scrollTo=yThWeDer_bK3
